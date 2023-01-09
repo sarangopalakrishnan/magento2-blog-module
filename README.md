@@ -1,2 +1,2 @@
-# magento2-blog-module
+# Mageplaza Blog
 Blog extension for Magento2
