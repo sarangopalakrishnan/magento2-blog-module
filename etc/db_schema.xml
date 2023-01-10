@@ -19,7 +19,6 @@
         <constraint xsi:type="primary" referenceId="PRIMARY">
             <column name="post_id"/>
         </constraint>
-  
     </table>
 
 </schema>
